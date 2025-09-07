@@ -61,22 +61,12 @@ A player wins (three or more in a line depending on board size).
 
 OR the board is full → Draw.
 
-🖼️ Example (3x3 board)
-diff
-Copy code
-- - -
-- - -
-- - -
 
-Player (X): Enter the Row and Column:
-0 0
-
-X - -
-- - -
-- - -
 📌 Future Improvements
 Add AI opponent (single player mode).
 
 Add scoreboard.
 
 Improve board UI with grid lines.
+
+
