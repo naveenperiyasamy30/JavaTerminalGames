@@ -63,6 +63,7 @@ OR the board is full → Draw.
 
 
 📌 Future Improvements
+
 Add AI opponent (single player mode).
 
 Add scoreboard.
